@@ -17,9 +17,9 @@ You can use the this site to see how inept I am at coding
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](http://travispersick.weebly.com/).
-```
 
+```
+[Link](http://travispersick.weebly.com/).
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ### Support or Contact
 
